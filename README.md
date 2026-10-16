@@ -40,21 +40,6 @@ Durante o desenvolvimento do projeto sem o uso de APIs externas, surgiram alguns
 
 ---
 
-## Como Executar o Projeto Localmente
-
-Não é necessário instalar gerenciadores de pacotes como `npm` ou servidores como `node` para rodar este projeto básico.
-
-1. **Clone o repositório:**
-   `git clone [https://github.com/matheuscjustinog/QRCode.git](https://github.com/matheuscjustinog/QRCode.git)`
-
-2. **Acesse a pasta do projeto:**
-   `cd QRCode`
-
-3. **Abra a aplicação:**
-   * Basta dar dois cliques no arquivo `index.html` para abrir diretamente no seu navegador de preferência.
-
----
-
 ## Contribuições
 
 Contribuições são super bem-vindas! Se você quiser adicionar visualizadores interativos da matriz do QR Code, novos temas ou otimizações no código:
